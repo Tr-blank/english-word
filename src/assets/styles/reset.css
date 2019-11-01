@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans TC','Microsoft YaHei', helvetica, arial, sans-serif;
+  margin: 0;
+  width: 100%;
+}
+
+a {
+  text-decoration: unset;
+  color: unset;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+main {
+  padding-top: 56px;
+}
+
+picture {
+  display: block;
+}
+
+input,
+button,
+select,
+textarea,
+*:focus {
+  outline: none
+}
